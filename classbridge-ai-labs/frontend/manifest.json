@@ -1,0 +1,9 @@
+{
+  "name": "ClassBridge AI Labs",
+  "short_name": "ClassBridge",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f7f9f7",
+  "theme_color": "#173f35",
+  "description": "Interactive practical learning prototype"
+}
